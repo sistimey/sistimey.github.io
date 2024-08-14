@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sistimey.github.io/sitemap.html.gz
+Sitemap: https://sistimey.github.io/app/sitemap.html.gz
+Sitemap: https://sistimey.github.io/assets/sitemap.html.gz
+Sitemap: https://sistimey.github.io/css/sitemap.html.gz
+Sitemap: https://sistimey.github.io/includes/sitemap.html.gz
+Sitemap: https://sistimey.github.io/item/sitemap.html.gz
+Sitemap: https://sistimey.github.io/src/sitemap.html.gz
